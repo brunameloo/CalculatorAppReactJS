@@ -3,7 +3,7 @@
 This project is about the design and development of a Calculator App in React. 
 It consists of the React Basics course's final graded assessment from the Front-End Developer Professional Certification from Meta. 
 
-## Habilities and technologies explored and applied
+## Habilities and Technologies Explored and Applied
 
 ### UX/UI Design
 <br>
@@ -18,14 +18,14 @@ It consists of the React Basics course's final graded assessment from the Front-
 </div>
 <br>
 <div style="display: inline_block">
-  <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/gallery.png" width="30px"/>          
-  Effects selection to create adequate interaction that is fitting for the client and its customers.
+  <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/effects.png" width="30px"/>          
+  Effects selection to create adequate interaction that is fitting for the app users.
 </div>
 
 ### Front-End Development
 <br>
 <div style="display: inline_block">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />                            
   Creation of a React Application.
 </div>
 <br>
