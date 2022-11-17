@@ -1,5 +1,10 @@
 # Calculator App in React
 
+<div style = "display: inlin_block">
+<img src="https://github.com/brunameloo/CalculatorAppReactJS/blob/main/public/calculator-app-desktop-ui.svg" height="400"/>
+<img src="https://github.com/brunameloo/CalculatorAppReactJS/blob/main/public/calculator-app-mobile-ui.svg" height="400"/>
+</div>
+
 This project is about the design and development of a Calculator App in React. 
 It consists of the React Basics course's final graded assessment from the Front-End Developer Professional Certification from Meta. 
 
